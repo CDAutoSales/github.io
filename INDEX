@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>CD Auto Sales and Towing</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 4px solid #000;
+  }
+  .LOGO {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h1,
+  h2 {
+    color: #333;
+  }
+  .contact-info {
+    border: 4px solid #000;
+    margin-top: 20px;
+  }
+  .contact-info p {
+    margin-bottom: 5px;
+  }
+</style>
+<body>
+  <div class="container">
+    <h1>CD Auto Sales</h1>
+    <h2>Towing and Recovery</h2>
+  <div class="LOGO">
+    <img src="4c3qrwgg.png" alt="Company Logo" width="200" length="200">
+  </div>
+  <div class="Intro">
+    <p>
+      Welcome to CD Auto Sales, your trusted partner in automotive repair and towing services. We are dedicated to providing top-notch service and excellent customer support.
+    </p>
+    <p>
+      At CD Auto Sales, we understand the importance of your vehicle's safety and well-being. That's why we offer a range of towing and recovery services to meet your needs.
+    </p>
+    <p>
+      Our team of experienced technicians and technicians are committed to providing prompt and efficient service. We understand the importance of maintaining your vehicle's integrity.
+    </p>
+    <p>
+      Whether you need a quick and efficient towing service or a full-service recovery, we are here to assist you.
+    </p>
+  </div>
+  <div class="hours">
+    <h3>Hours of Operation</h3>
+    <p>
+      Monday: 8:00 AM to 5:00 PM
+    </p>
+    <p>
+      Tuesday: 8:00 AM to 5:00 PM
+    </p>
+    <p>
+      Wednesday: 8:00 AM to 4:00 PM
+    </p>
+    <p>
+      Thursday: 8:00 AM to 5:00 PM
+    </p>
+    <p>
+      Friday: 8:00 AM to 5:00 PM
+    </p>
+    <p>
+      Saturday: 8:00 AM to 1:00 PM
+    </p>
+  </div>
+  <div class="contact-info">
+    <h2>Contact Us</h2>
+    <p>Towing Service: (931) 528-0264</p>
+    <p>Dealership: (931) 239-4998</p>
+    <p>Address: 2704 West Broad Street Cookeville, Tennessee 38506</p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
